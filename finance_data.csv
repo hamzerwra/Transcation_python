@@ -1,0 +1,11 @@
+date,amount,category,description
+20-07-2024,125.65,income,salary
+01-01-2024,500,income,salary
+02-01-2024,-50,expense,groceries
+05-01-2024,200,income,freelance project
+07-01-2024,-30,expense,transportation
+10-01-2024,-100,expense,dining out
+15-01-2024,1000,income,bonus
+20-01-2024,-200,expense,rent
+25-01-2024,-75,expense,utilities
+30-01-2024,150,income,side hustle
